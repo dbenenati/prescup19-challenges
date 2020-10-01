@@ -4,6 +4,7 @@
 #### Category: Analyze and Investigate
 #### Difficulty Level: 1000
 #### Executive Order Category: Cyber Analysis
+#### <a href="https://www.youtube.com/watch?v=Zh_CSgsL8so&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=12">Video Walkthrough</a>
 
 ## Getting Started
 
