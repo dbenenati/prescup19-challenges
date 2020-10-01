@@ -1,6 +1,7 @@
 <img src="../../logo.png" height="250px">
 
 # Slackin’
+#### <a href="https://www.youtube.com/watch?v=03EDZAHbJ3o&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=30">Video Walkthrough</a>
 
 
 ## Background
