@@ -4,6 +4,7 @@
 #### Category: Collect and Operate
 #### Difficulty Level: 1000
 #### Executive Order Category: Cyber Analysis
+#### <a href="https://www.youtube.com/watch?v=3FY9t3vK3k8&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=17">Video Walkthrough</a>
 
 ## Background
 Intelligence sources have captured data from a notorious APT and malicious actor in the cyber realm. This suspect also offers his services by writing custom malware for clients he deems worthy. This data and the relevant intelligence report are available to you. You must analyze this data to find the APT’s ultimate password which is the flag for this challenge.
