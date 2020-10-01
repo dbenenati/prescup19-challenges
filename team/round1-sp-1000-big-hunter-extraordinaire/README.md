@@ -4,6 +4,7 @@
 #### Category: Securely Provision
 #### Difficulty Level: 1000
 #### Executive Order Category: Secure Programming
+#### <a href="https://www.youtube.com/watch?v=5mCJv1OI9B0&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=6">Video Walkthrough</a>
 
 ## Background
 Software bugs can pose a serious threat to an organization. In order to prevent software bugs that could result in
