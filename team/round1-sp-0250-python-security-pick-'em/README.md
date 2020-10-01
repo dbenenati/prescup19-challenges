@@ -4,6 +4,7 @@
 #### Category: Securely Provision
 #### Difficulty Level: 250
 #### Executive Order Category: Secure Programming
+#### <a href="https://www.youtube.com/watch?v=6AstyQs0A5w&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=11">Video Walkthrough</a>
 
 ## Background  
 In this challenge, you will be asked to assess ten different functions written in Python 2.7. Each function will follow the same basic structure:  
