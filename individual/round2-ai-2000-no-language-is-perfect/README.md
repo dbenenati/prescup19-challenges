@@ -4,6 +4,7 @@
 #### Category: Analyze and Investigate
 #### Difficulty Level: 2000
 #### Executive Order Category: Cyber Exploitation
+#### <a href="https://www.youtube.com/watch?v=f_emT1_8g7Y&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=18">Video Walkthrough</a>
 
 ## Background
 The network administrator keeps a "fun" little game running for anyone to kill time when work is slow. Anyone is free to try it if they have time, and progress is shared. The game is a small trading game and the goal is to amass enough wealth to buy the retirement package (i.e., the challenge flag). So far, no one has been able to make it far enough to generate the obscene amount of money required. However, you've just managed to get access to the server code...
