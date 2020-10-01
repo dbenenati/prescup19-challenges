@@ -5,6 +5,7 @@
 #### Category: Operate and Maintain
 #### Difficulty Level: 500
 #### Executive Order Category: Cyber Defense
+#### <a href="https://www.youtube.com/watch?v=XVdFiQU0vdQ&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=4">Video Walkthrough</a>
 
 ## Background
 Large amounts of bandwidth have been noticed recently on your network. Unfortunately, you do not have a proxy or
