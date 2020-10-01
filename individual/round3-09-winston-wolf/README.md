@@ -3,6 +3,7 @@
 # Winston Wolf
 #### Category: Analyze
 #### Executive Order Category: Analyze and Investigate
+#### <a href="https://www.youtube.com/watch?v=xa9ikuVis-8&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=32">Video Walkthrough</a>
 
 ## Background
 You're trying to learn more about a new type of malware, but it won't continue
