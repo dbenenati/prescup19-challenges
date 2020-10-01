@@ -1,6 +1,7 @@
 <img src="../../logo.png" height="250px">
 
 # Cube Craze
+#### <a href="https://www.youtube.com/watch?v=NYoC-Kbzm6I&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=23">Video Walkthrough</a>
 
 ## Background
 This challenge consists of a cyber-based Rubik's Cube that must be solved. When each phase of the Cube is solved, smaller tasks containing parts of the final key are unlocked.
