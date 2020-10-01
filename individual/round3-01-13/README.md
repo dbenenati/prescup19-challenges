@@ -1,6 +1,7 @@
-<img src="../../../../logo.png" height="250px">
+<img src="../../logo.png" height="250px">
 
 # 13
+#### <a href="https://www.youtube.com/watch?v=y7cJDotwios&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=27">Video Walkthrough</a>
 
 
 ## Background
