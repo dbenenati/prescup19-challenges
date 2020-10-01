@@ -4,6 +4,7 @@
 #### Category: Protect and Defend
 #### Difficulty Level: 2000
 #### Executive Order Category: Cyber-Physical Systems
+#### <a href="https://www.youtube.com/watch?v=53jw3bE6izE&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=20">Video Walkthrough</a>
 
 ## Background
 You have been assigned to install Suricata IDS from a tarball. This IDS will be utilized to detect unauthorized SCADA traffic.
