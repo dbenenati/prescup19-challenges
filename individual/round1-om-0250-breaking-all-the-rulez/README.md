@@ -5,6 +5,7 @@
 #### Category: Operate and Maintain
 #### Difficulty Level: 250
 #### Executive Order Category: Network Operations
+#### <a href="https://www.youtube.com/watch?v=xr53GirWU0M&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=8">Video Walkthrough</a>
 
 ## Background
 
