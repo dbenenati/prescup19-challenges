@@ -4,6 +4,7 @@
 #### Category: Securely Provision
 #### Difficulty Level: 1000
 #### Executive Order Category: Secure Programming
+#### <a href="https://www.youtube.com/watch?v=rGszmhdU9Qk&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=15">Video Walkthrough</a>
 
 ## Background
 This challenge provides you with real C code files that are used as part of an open source project. Each file will have an integer overflow bug that was, at one time, actually present in the code (all bugs evident in this challenge have since been patched). The flag you submit for this challenge will be the line number on which the bug is found in each file. For example, if the bug occurs on line 23 in file 1 and line 24 in file 2, the flag to submit will be: 23_24
