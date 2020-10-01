@@ -4,6 +4,7 @@
 #### Category: Collect and Operate
 #### Difficulty Level: 1000
 #### Executive Order Category: Network Operations
+#### <a href="https://www.youtube.com/watch?v=CgttsSoHgoA&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=35">Video Walkthrough</a>
 
 ## Background
 
