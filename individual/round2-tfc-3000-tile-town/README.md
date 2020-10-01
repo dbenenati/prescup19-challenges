@@ -2,6 +2,7 @@
 
 # Tile Town
 #### Difficulty Level: 3000
+#### <a href="https://www.youtube.com/watch?v=tDSN-OUGg8s&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=38">Video Walkthrough</a>
 
 ## Getting Started
 
