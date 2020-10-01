@@ -4,6 +4,7 @@
 #### Category: Securely Provision
 #### Difficulty Level: 1000
 #### Executive Order Category: Secure Programming
+#### <a href="https://www.youtube.com/watch?v=rGszmhdU9Qk&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=15">Video Walkthrough</a>
 
 ## Background
 
