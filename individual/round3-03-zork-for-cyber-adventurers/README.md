@@ -1,6 +1,7 @@
 <img src="../../logo.png" height="250px">
 
 # Zork for Cyber Adventurers
+#### <a href="https://www.youtube.com/watch?v=f6BCVAhUHCU&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=29">Video Walkthrough</a>
 
 ## Background
 In this challenge, you will play a text-based adventure game. Along the way, you must solve small problems requiring various skills in order to advance. Be prepared for dead-ends, backtracking, deaths, and hopefully to find the flag in the end.
