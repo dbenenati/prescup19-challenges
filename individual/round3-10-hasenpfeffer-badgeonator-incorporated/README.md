@@ -6,6 +6,8 @@
 > One, two, three, four, five, six, seven, eight... Schlemiel! Schlimazel!
 Hasenpfeffer Badgeonator Incorporated!
 
+#### <a href="https://www.youtube.com/watch?v=RTsroOrcChc&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=33">Video Walkthrough</a>
+
 ## Background
 Your team has been spending a lot of time trying to figure out terrorist group
 SUDSYBEAR's potential targets for cells operating on US soil. On a quarantined
