@@ -4,6 +4,7 @@
 #### Category: Operate and Maintain
 #### Difficulty Level: 2000
 #### Executive Order Category: Big Data Analysis
+#### <a href="https://www.youtube.com/watch?v=iPKeKe2zL7A&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=19">Video Walkthrough</a>
 
 ## Background
 It is suspected that a workstation has been compromised. Your task is to analyze the PCAP file which was taken from the suspected victim to identify periodic beaconing behavior. The flag will be the IP address of the host that the compromised system is beaconing to (for example: 1.2.3.4).
