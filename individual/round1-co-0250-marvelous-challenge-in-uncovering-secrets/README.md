@@ -5,6 +5,7 @@
 #### Category: Collect and Operate
 #### Difficulty Level: 250
 #### Executive Order Category: Cyber Analysis
+#### <a href="https://www.youtube.com/watch?v=CiCgIgS3HO0&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=7">Video Walkthrough</a>
 
 ## Background
 Intelligence sources have recovered a set of data files that they believe contain a 26 character hidden message.
