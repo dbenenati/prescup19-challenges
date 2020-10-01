@@ -1,6 +1,7 @@
 <img src="../../logo.png" height="250px">
 
 # Buried in the Sands of Time
+#### <a href="https://www.youtube.com/watch?v=BNrtuTMdb0E&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=25">Video Walkthrough</a>
 
 
 ## Background
