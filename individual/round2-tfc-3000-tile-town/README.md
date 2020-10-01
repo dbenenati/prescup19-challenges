@@ -1,4 +1,4 @@
-<img src="../../../../logo.png" height="250px">
+<img src="../../logo.png" height="250px">
 
 # Tile Town
 #### Difficulty Level: 3000
