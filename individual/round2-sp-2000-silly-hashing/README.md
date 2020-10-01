@@ -4,6 +4,7 @@
 #### Category: Securely Provision
 #### Difficulty Level: 2000
 #### Executive Order Category: Obfuscated Coding
+#### <a href="https://www.youtube.com/watch?v=oDnwBGK6avM&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=21">Video Walkthrough</a>
 
 ## Background
 Analyze a Linux executable program, for which you must find the command line
