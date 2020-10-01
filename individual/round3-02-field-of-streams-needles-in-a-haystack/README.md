@@ -1,6 +1,7 @@
 <img src="../../logo.png" height="250px">
 
 # Field of Streams: Needles in a Haystack
+#### <a href="https://www.youtube.com/watch?v=91lqd8bFcgI&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=28">Video Walkthrough</a>
 
 ## Background
 Two machines on the network have been sending data back and forth. Within this traffic are multiple files sent via FTP, as well as other types of traffic that should seem abnormal, atypical, or unusual based on the largest types of traffic in use. Note that none of the traffic you need to find is encrypted, and thus, all data can be found in clear text.
