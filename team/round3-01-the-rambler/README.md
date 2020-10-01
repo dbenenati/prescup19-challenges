@@ -2,6 +2,7 @@
 
 # The Rambler
 #### Executive Order Category: Forensics / Data Analysis
+#### <a href="https://www.youtube.com/watch?v=fJBgMykwvQg&list=PLSNlEg26NNpyjtUujhwW16SkJbuE9Pppe&index=22">Video Walkthrough</a>
 
 ## Background
 HUMINT (human intelligence) has determined that in-field agents report into some sort of Web
